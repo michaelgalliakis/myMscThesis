@@ -12,9 +12,12 @@ Today, there is a growing interest for a combination of intelligent applications
 https://doi.org/10.1145/3291533.3291578
 
 Authors: Michael Galliakis, Christos Skourlas, Eleni Galiotou, Ioannis Voyiatzis	 
+
 University of West Attica, Greece
 
 Published in:
 PCI '18 Proceedings of the 22nd Pan-Hellenic Conference on Informatics
+
 Pages 93-98
+
 Athens, Greece — November 29 - December 01, 2018
